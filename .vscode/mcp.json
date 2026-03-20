@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "kb": {
+      "type": "stdio",
+      "command": "python",
+      "args": [".github/mcp/kb-mcp-server.py"],
+      "cwd": "${workspaceFolder}"
+    }
+  }
+}

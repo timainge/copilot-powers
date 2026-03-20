@@ -1,0 +1,19 @@
+# Agent audit logs (local only)
+.agent-audit.jsonl
+.kb-build-progress.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary KB state (track .build-state.json but not ephemeral files)
+kb/.pending-changes.txt

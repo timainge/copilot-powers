@@ -1,0 +1,11 @@
+{
+  "name": "repo-exploration",
+  "description": "Systematic repository exploration and handover-quality documentation. Explores codebases, maps architecture, documents service boundaries, and synthesises onboarding docs with minimal interruption.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Tim Ainge"
+  },
+  "license": "MIT",
+  "keywords": ["documentation", "exploration", "architecture", "onboarding", "handover"],
+  "skills": "skills/"
+}
